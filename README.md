@@ -5,6 +5,7 @@ This app displays comics using the Marvel Comics API and allows users to create 
 
 
 #Prerequisites
+
 Before you can start building apps with the Ionic Framework, you will need the following:
 
 1. Node.js (at least v10) installed on your computer
